@@ -1,4 +1,5 @@
 # Write your code here.
-def badge_maker 
+attendee = []
+def badge_maker (attendee)
   
   
